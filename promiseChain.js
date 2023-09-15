@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const cart = ["Shoes", "Phone", "Watch"];
 
 // const promise = createOrder(cart);
